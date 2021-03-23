@@ -11,7 +11,4 @@ You can reach me on Discord at **totallynotemma#1041** or email me at **totallyn
 - active staff team & moderation
 - fun bots
 - chats for all your creative needs
-
-
-[join my programming server](https://discord.gg/76nKbj5VP5)
-- new to programming? you can ask me for help on anything and everything, i might not know the answer but hey, we can figure it out together!
+- an easy means of communication with me
