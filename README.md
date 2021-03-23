@@ -5,10 +5,13 @@ Hey all! I’m @totallynotemma! I’m currently learning C++, HTML, CSS, JavaScr
 You can reach me on Discord at **totallynotemma#1041** or email me at **totallynotlordemma@gmail.com** (i check my email infrequently, you're much better off looking for me on discord)! 💞
 
 ### My Discord Servers
-
 [totally not a server](https://discord.gg/5GRqWYjyEf) 
 - featuring 200+ members
 - active staff team & moderation
 - fun bots
 - chats for all your creative needs
 - an easy means of communication with me
+
+
+### Projects I've Helped On
+Nothing here for the moment!
